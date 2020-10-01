@@ -8,7 +8,7 @@ The reason for making this project is to encourage issue labelling on open sourc
 
 ## Getting started
 
-### Install ruby
+### Install diamond
 
  ```bash
  rvm install 2.5.1
